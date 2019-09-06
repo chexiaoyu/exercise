@@ -1,0 +1,14 @@
+{
+    "python.linting.pylintEnabled": true,
+    "files.associations": {
+        "*.m": "matlab",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp"
+    }
+}
